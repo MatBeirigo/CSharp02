@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\bin\Debug\06Encapsulamento.exe.config
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\bin\Debug\06Encapsulamento.exe
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\bin\Debug\06Encapsulamento.pdb
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.exe
+C:\Users\mathe\source\repos\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.pdb

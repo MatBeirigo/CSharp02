@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\07Construtor\07Construtor\bin\Debug\07Construtor.exe.config
+C:\Users\mathe\source\repos\07Construtor\07Construtor\bin\Debug\07Construtor.exe
+C:\Users\mathe\source\repos\07Construtor\07Construtor\bin\Debug\07Construtor.pdb
+C:\Users\mathe\source\repos\07Construtor\07Construtor\obj\Debug\07Construtor.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\07Construtor\07Construtor\obj\Debug\07Construtor.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\07Construtor\07Construtor\obj\Debug\07Construtor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\07Construtor\07Construtor\obj\Debug\07Construtor.exe
+C:\Users\mathe\source\repos\07Construtor\07Construtor\obj\Debug\07Construtor.pdb

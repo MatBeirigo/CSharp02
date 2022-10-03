@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\09This\09This\bin\Debug\09This.exe.config
+C:\Users\mathe\source\repos\09This\09This\bin\Debug\09This.exe
+C:\Users\mathe\source\repos\09This\09This\bin\Debug\09This.pdb
+C:\Users\mathe\source\repos\09This\09This\obj\Debug\09This.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\09This\09This\obj\Debug\09This.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\09This\09This\obj\Debug\09This.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\09This\09This\obj\Debug\09This.exe
+C:\Users\mathe\source\repos\09This\09This\obj\Debug\09This.pdb
